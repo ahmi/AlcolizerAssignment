@@ -1,0 +1,11 @@
+100000 ug/100mL
+0.001 g/L
+0.004348 g/L
+Error
+Error
+0.009087 g/L
+300000 ug/100mL
+0.004 g/L
+Error
+Error
+Error
